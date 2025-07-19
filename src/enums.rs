@@ -1,6 +1,12 @@
+// MateiDevel on Github
+
 mod structs;
 
 use std::io;
+
+// Source : The Rust Programing Language Book 
+// Chapter 6.1 - Defining an Enum 
+// Enums, or enumerations, allow you to define a type by enumerating its possible variants.
 
 enum Voicelines
 {
